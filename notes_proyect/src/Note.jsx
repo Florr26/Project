@@ -12,7 +12,7 @@ return(
 
                <div className = "head_titulo">
                    <h1> SISTEMA ESCOLAR DE APUNTES</h1>
-                   <h2> Centro de copiado </h2>
+                   <h2> Centro de copiado</h2>
                </div> 
 
                <div className = "head_perfil">
