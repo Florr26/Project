@@ -11,7 +11,7 @@ return(
             <img src= "https://media.canva.com/v2/image-resize/format:PNG/height:650/quality:100/uri:ifs%3A%2F%2FM%2F48d7b94e-2e2c-41bf-aafb-f4150565dedc/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAOq95Z8vJiBb8sSxiA5niLCHbOwDgK_Ibj2e_7DN509A&exp=1792106108&osig=AAAAAAAAAAAAAAAAAAAAAEa-Jx-m8ViRVDaHHzPxGE82XTxix_Lc5filtDAchAD7&signer=media-rpc&token=AAIAAU0AJDQ4ZDdiOTRlLTJlMmMtNDFiZi1hYWZiLWY0MTUwNTY1ZGVkYwAAAAABoUHZFGCzbdz9Xrv9kKj6w_Pk4kvnkNVYGmqaIAlnLEcZy6L-hg&x-canva-quality=screen" alt= "Logo" className = "renault"/> 
 
                <div className = "head_titulo">
-                   <h1> SISTEMA ESCOLAR DE APUNTES </h1>
+                   <h1> SISTEMA ESCOLAR DE APUNTES</h1>
                    <h2> Centro de copiado </h2>
                </div> 
 
